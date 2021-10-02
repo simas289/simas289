@@ -11,7 +11,7 @@
         <a href="">COINFLIPski</a>
         <div class="rightside">
         <div class="balance">
-          <button>Balance: 15.31$</button>
+          <button>Balance: 15.45$</button>
         </div>
         <div class="profile">
           <button><img src="@\assets\profile.jpg" alt="profile picture"> SHEEEEEESH</button>
