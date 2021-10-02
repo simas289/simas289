@@ -8,7 +8,7 @@
       <div class="navbar">
         <a href="">ROULETTE</a>
         <a href="">CRASH</a>
-        <a href="">COINFLIP</a>
+        <a href="">COINFLIPski</a>
         <div class="rightside">
         <div class="balance">
           <button>Balance: 15.31$</button>
